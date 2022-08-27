@@ -1,3 +1,3 @@
 console.log('test');
-console.log("dwadwsadawdadadawdadwa"
-);
+
+console.log("dwadwsadawdadadawdadwa");
